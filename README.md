@@ -51,3 +51,8 @@ To complete the project, the notebook includes preparation steps for deploying t
 ### **Conclusion**
 
 This Jupyter Notebook successfully demonstrates a full machine learning workflow: from data exploration and cleaning, through feature scaling and model training, to evaluation and deployment. By using both linear and ensemble methods, and integrating deployment practices, it showcases a practical and industry-relevant application of data science. The use of pipelines ensures a modular and reproducible approach, ideal for real-world projects.
+
+
+OUTPUT : TASK 3
+
+![Image](https://github.com/user-attachments/assets/0045ac9f-e2fe-4edc-b753-23ad845be92d)
