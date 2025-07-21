@@ -13,7 +13,6 @@
 *MENTOR*: NEELA SANTOSH
 
 
-#Description of the Task
 
 
 ### **House Price Prediction Project in Jupyter Notebook**
